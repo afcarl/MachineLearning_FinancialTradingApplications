@@ -1,4 +1,4 @@
-#Financial Applications of Machine Learning
+# Financial Applications of Machine Learning
 
 ## collection of machine learning algorithms for financial trading applications (expanded on masters coursework from prof. Tucker Balch, Ga Tech)
 
